@@ -22,7 +22,7 @@ let display = document.getElementById('display');
 
         function goToMainPage() {
             // Replace this with the URL of your main page
-            window.location.href = 'index.html';
+            window.location.href = '../index.html';
         }
 
         document.querySelectorAll('#buttons button').forEach(button => {
